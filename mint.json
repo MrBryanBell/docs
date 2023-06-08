@@ -45,6 +45,13 @@
         "api-reference/endpoint/update",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "Author",
+      "pages": [
+        "api-reference/author/bio",
+        "api-reference/author/hobbies"
+      ]
     }
   ],
   "footerSocials": {
