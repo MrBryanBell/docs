@@ -1,0 +1,9 @@
+{
+	"name": "mintlify",
+	"build": {
+		"context": "..",
+		"dockerfile": "../Dockerfile"
+	},
+	"forwardPorts": [3000],
+	"runArgs": ["--name", "mintlify"]
+}
